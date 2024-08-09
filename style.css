@@ -17,3 +17,7 @@ body {
     --Light-gray: hsl(0, 0%, 81%);
     --Light-grayish-blue: hsl(210, 46%, 95%);
 }
+
+.author-tag {
+    display: flex;
+}
