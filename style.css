@@ -48,6 +48,7 @@ body {
 .grid-card {
     padding: 1rem;
     border-radius: 1rem;
+    box-shadow: 0px 10px 30px -10px rgba(0, 0, 0, 0.8);
 }
 
 .item-1 {
