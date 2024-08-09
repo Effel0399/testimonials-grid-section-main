@@ -21,6 +21,12 @@ body {
 .author-tag {
     display: flex;
 }
+.author-info {
+    margin-left: 1rem;
+}
+.author-name {
+    margin-bottom: .25rem;
+}
 
 .container {
     max-width: 80vw;
