@@ -21,3 +21,37 @@ body {
 .author-tag {
     display: flex;
 }
+
+.container {
+    max-width: 80vw;
+    margin: 80px auto;
+    margin-top: 80px;
+}
+
+.grid-box {
+    display: grid;
+    gap: 10px;
+    padding: 10px;
+}
+.grid-card {
+    background-color: var(--Moderate-violet);
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.item-1 {
+    grid-column: 1 / span 2;
+}
+.item-2 {
+    grid-column: 3 / span 1;
+}
+.item-3 {
+    grid-column: 4 / span 1;
+    grid-row: 1 / span 2;
+}
+.item-4 {
+    grid-column: 1 / span 1;
+}
+.item-5 {
+    grid-column: 2 / span 2;
+}
