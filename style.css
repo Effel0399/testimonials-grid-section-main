@@ -23,14 +23,14 @@ body {
     align-items: center;
 }
 .author-info {
-    margin-left: 1rem;
+    margin-left: .1rem;
 }
 .author-name {
     margin-bottom: .25rem;
 }
 .author-tag img {
     border-radius: 50%;
-    scale: 80%;
+    scale: 75%;
     border: 2px;
     border-style: solid;
 }
