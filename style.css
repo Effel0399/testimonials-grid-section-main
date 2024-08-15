@@ -62,6 +62,9 @@ h2 {
     grid-column: 1 / span 2;
     background-color: var(--Moderate-violet);
     color: white;
+    background-image: url("/images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position-x: 80%;
 }
 .item-2 {
     grid-column: 3 / span 1;
