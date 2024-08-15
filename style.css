@@ -28,6 +28,9 @@ body {
 .author-name {
     margin-bottom: .25rem;
 }
+.author-title{
+    opacity: 50%;
+}
 .author-tag img {
     border-radius: 50%;
     scale: 75%;
@@ -45,6 +48,9 @@ body {
 h2 {
     margin-top: .75rem;
     margin-bottom: .75rem;
+}
+p {
+    opacity: 70%;
 }
 
 .grid-box {
