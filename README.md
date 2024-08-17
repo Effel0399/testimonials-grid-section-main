@@ -21,7 +21,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/FNH99/blog-preview-card-main/blob/main/assets/images/screenshot.png)
+![](https://github.com/FNH99/testimonials-grid-section-main/blob/main/images/screenshot-desktop.png)
+
+![](https://github.com/FNH99/testimonials-grid-section-main/blob/main/images/screenshot-mobile.png)
 
 ### Links
 
