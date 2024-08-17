@@ -21,12 +21,10 @@ body {
 .author-tag {
     display: flex;
     align-items: center;
+    font-size: .9rem;
 }
 .author-info {
     margin-left: .1rem;
-}
-.author-name {
-    margin-bottom: .25rem;
 }
 .author-title{
     opacity: 50%;
@@ -42,20 +40,21 @@ body {
     max-width: 70vw;
     margin: 80px auto;
     margin-top: 80px;
-    
 }
 
 h2 {
     margin-top: .75rem;
     margin-bottom: .75rem;
+    font-size: 1.5rem;
 }
 p {
     opacity: 70%;
+    
 }
 
 .grid-box {
     display: grid;
-    gap: 10px;
+    gap: 20px;
     padding: 10px;
 }
 .grid-card {
@@ -94,6 +93,7 @@ p {
 
 @media (max-width: 900px) {
     .container{
+        max-width: 70vw;
         min-width: 500px;
         margin-top: 30px;
     }
