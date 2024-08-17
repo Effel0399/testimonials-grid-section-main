@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [blog preview card](https://blog-preview-card-main-seven.vercel.app)
+- Live Site URL: [testimonial grid section](https://testimonials-grid-section-main-theta-tawny.vercel.app/)
 
 ## Author
 
